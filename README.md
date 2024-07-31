@@ -12,3 +12,9 @@ v2 (7/31/2024)
 schematic v1
 
 ![Snímek obrazovky 2024-07-31 v 19 22 23](https://github.com/user-attachments/assets/b016c063-a664-478b-9071-e7bb2676e5e0)
+
+
+schematic partly roted
+
+
+![Uploading Snímek obrazovky 2024-07-31 v 20.21.01.png…]()
