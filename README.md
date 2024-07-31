@@ -8,3 +8,7 @@ just an general idea how it should looks
 v2 (7/31/2024)
 
 ![Snímek obrazovky 2024-07-31 v 15 22 22](https://github.com/user-attachments/assets/2cdafab3-2eef-4812-80bd-f68dd1fb8531)
+
+schematic v1
+
+![Snímek obrazovky 2024-07-31 v 19 22 23](https://github.com/user-attachments/assets/b016c063-a664-478b-9071-e7bb2676e5e0)
