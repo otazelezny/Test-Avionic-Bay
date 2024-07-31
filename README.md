@@ -13,8 +13,7 @@ schematic v1
 
 ![Snímek obrazovky 2024-07-31 v 19 22 23](https://github.com/user-attachments/assets/b016c063-a664-478b-9071-e7bb2676e5e0)
 
-
 schematic partly roted
 
+<img width="867" alt="Snímek obrazovky 2024-07-31 v 20 21 01" src="https://github.com/user-attachments/assets/3af30049-3714-43e1-ace8-c693cee761e7">
 
-![Uploading Snímek obrazovky 2024-07-31 v 20.21.01.png…]()
