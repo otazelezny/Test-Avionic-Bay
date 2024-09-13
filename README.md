@@ -17,3 +17,15 @@ schematic partly routed
 
 <img width="867" alt="Snímek obrazovky 2024-07-31 v 20 21 01" src="https://github.com/user-attachments/assets/3af30049-3714-43e1-ace8-c693cee761e7">
 
+V1.2 - To improve
+    -   Better routing 
+    -   coil - XFL4020-152ML
+    -   more troughput trough routes
+    -   probe pins 
+    -   more outputs
+    -   40x40 hole pattern
+    -   more cabel holes
+    -   big ground plane to sheelding
+    -   external 5v input for easier control
+
+    
