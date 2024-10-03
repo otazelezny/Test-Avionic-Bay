@@ -19,13 +19,18 @@ schematic partly routed
 
 V1.2 - To improve
     -   Better routing 
-    -   coil - XFL4020-152ML
+    -   coil - XFL4020-152ML                    DONE
     -   more troughput trough routes
     -   probe pins 
-    -   more outputs
+    -   more outputs and systematic desing
     -   40x40 hole pattern
     -   more cabel holes
     -   big ground plane to sheelding
     -   external 5v input for easier control
+    -   continuity charge sense
+    -   4 pyro channels                         DONe
+    -   second IC for redandency
+    -   flash memmory at least 16MB
+    
 
     
