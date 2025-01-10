@@ -28,9 +28,10 @@ V1.2 - To improve
     -   big ground plane to sheelding
     -   external 5v input for easier control
     -   continuity charge sense
-    -   4 pyro channels                         DONe
+    -   4 pyro channels                         DONE
     -   second IC for redandency
-    -   flash memmory at least 16MB
-    
+    -   micro-sd
+    -   Thermistor 100k
+    -   Neopixel output    
 
     
